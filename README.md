@@ -1,4 +1,4 @@
-# Azure AI website frames
+# AI Governance
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
